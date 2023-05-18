@@ -10,4 +10,4 @@ The good, the bad and the not so great at all about the 2022 FIFA World Cup:
 * [John's got good deets](https://www.youtube.com/watch?v=UMqLDhl8PXw)
 * [Greatest Final of My Lifetime(as of 2023)](https://youtu.be/zhEWqfP6V_w)
 
-![Knockout Stage Bracket](bracket.png)
+We got really close to be fair - ![Knockout Stage Bracket](bracket.png)
